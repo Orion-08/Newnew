@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "song":"Bad Blood",
+        "album":"1989"
+    },
+    {
+        "id":2,
+        "song":"Getaway Car",
+        "album":"Reputation"
+    },
+    {
+        "id":3,
+        "song":"Deja Vu",
+        "album":"Sour"
+    },
+    {
+        "id":4,
+        "song":"Maniac",
+        "album":"KidCrow"
+    }
+]
